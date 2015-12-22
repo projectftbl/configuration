@@ -1,6 +1,5 @@
 {
   "name": "@ftbl/configuration",
-  "private": true,
   "version": "1.0.0",
   "description": "Configuration helper",
   "main": "node index",
