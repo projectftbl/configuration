@@ -1,4 +1,4 @@
-## @ftbl/configuration
+## @recipher/configuration
 
 Configuration helper with sane defaults. 
 
@@ -34,7 +34,7 @@ Given this configuration file:
 To retrieve configuration settings:
 
 ```javascript
-var configuration = require('@ftbl/configuration');
+var configuration = require('@recipher/configuration');
 
 var setting = configuration('setting');
 // setting === 123

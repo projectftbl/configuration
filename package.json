@@ -1,5 +1,5 @@
 {
-  "name": "@ftbl/configuration",
+  "name": "@recipher/configuration",
   "version": "1.0.0",
   "description": "Configuration helper",
   "main": "node index",
@@ -14,13 +14,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/configuration.git"
+    "url": "git@github.com:recipher/configuration.git"
   },
   "dependencies": {
     "nconf": "^0.7.1"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.0.0",
+    "@recipher/gulp": "^1.0.0",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",
